@@ -1,0 +1,15 @@
+C:\Users\angel\source\repos\Urban Parcel & Building Asset Manager\Urban Parcel & Building Asset Manager\bin\Debug\net10.0\Urban Parcel & Building Asset Manager.exe
+C:\Users\angel\source\repos\Urban Parcel & Building Asset Manager\Urban Parcel & Building Asset Manager\bin\Debug\net10.0\Urban Parcel & Building Asset Manager.deps.json
+C:\Users\angel\source\repos\Urban Parcel & Building Asset Manager\Urban Parcel & Building Asset Manager\bin\Debug\net10.0\Urban Parcel & Building Asset Manager.runtimeconfig.json
+C:\Users\angel\source\repos\Urban Parcel & Building Asset Manager\Urban Parcel & Building Asset Manager\bin\Debug\net10.0\Urban Parcel & Building Asset Manager.dll
+C:\Users\angel\source\repos\Urban Parcel & Building Asset Manager\Urban Parcel & Building Asset Manager\bin\Debug\net10.0\Urban Parcel & Building Asset Manager.pdb
+C:\Users\angel\source\repos\Urban Parcel & Building Asset Manager\Urban Parcel & Building Asset Manager\obj\Debug\net10.0\Urban Parcel & Building Asset Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\Urban Parcel & Building Asset Manager\Urban Parcel & Building Asset Manager\obj\Debug\net10.0\Urban Parcel & Building Asset Manager.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\Urban Parcel & Building Asset Manager\Urban Parcel & Building Asset Manager\obj\Debug\net10.0\Urban Parcel & Building Asset Manager.AssemblyInfo.cs
+C:\Users\angel\source\repos\Urban Parcel & Building Asset Manager\Urban Parcel & Building Asset Manager\obj\Debug\net10.0\Urban Parcel & Building Asset Manager.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Urban Parcel & Building Asset Manager\Urban Parcel & Building Asset Manager\obj\Debug\net10.0\Urban Parcel & Building Asset Manager.dll
+C:\Users\angel\source\repos\Urban Parcel & Building Asset Manager\Urban Parcel & Building Asset Manager\obj\Debug\net10.0\refint\Urban Parcel & Building Asset Manager.dll
+C:\Users\angel\source\repos\Urban Parcel & Building Asset Manager\Urban Parcel & Building Asset Manager\obj\Debug\net10.0\Urban Parcel & Building Asset Manager.pdb
+C:\Users\angel\source\repos\Urban Parcel & Building Asset Manager\Urban Parcel & Building Asset Manager\obj\Debug\net10.0\Urban Parcel & Building Asset Manager.genruntimeconfig.cache
+C:\Users\angel\source\repos\Urban Parcel & Building Asset Manager\Urban Parcel & Building Asset Manager\obj\Debug\net10.0\ref\Urban Parcel & Building Asset Manager.dll
+C:\Users\angel\source\repos\Urban Parcel & Building Asset Manager\Urban Parcel & Building Asset Manager\obj\Debug\net10.0\Urban Pa.483D50D3.Up2Date
